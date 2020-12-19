@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Исходные файлы\class Student">
+      <UniqueIdentifier>{d91795c3-d4b5-404a-a955-e49e50c9fa9b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Employee">
+      <UniqueIdentifier>{14cd0f63-974d-432d-a59c-e92d65c9529e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Human">
+      <UniqueIdentifier>{0e656f88-68b9-44ba-9417-caa80734d4cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Alumnus">
+      <UniqueIdentifier>{cd1b61c9-9eb3-43ac-9b14-5601461c4c84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Stuff">
+      <UniqueIdentifier>{0ca33be4-2dad-4e16-b0c6-98e54d192e30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Faculty">
+      <UniqueIdentifier>{4bfc2681-db27-4894-a07d-724ca4726e9e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Administrator">
+      <UniqueIdentifier>{bdc9847a-01b4-4125-8fb8-f6690f18bb2f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class Teacher">
+      <UniqueIdentifier>{c2712f95-2d7f-420c-aad8-0ed86ea845d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Исходные файлы\class AdministratorTeacher">
+      <UniqueIdentifier>{d7b5685e-a21b-423a-8cbe-c1c4ebdaf694}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tests">
+      <UniqueIdentifier>{94840926-b257-4b47-adc1-e730722c16c6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="2 ЛАБА ППВИС.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="human.cpp">
+      <Filter>Исходные файлы\class Human</Filter>
+    </ClCompile>
+    <ClCompile Include="employee.cpp">
+      <Filter>Исходные файлы\class Employee</Filter>
+    </ClCompile>
+    <ClCompile Include="student.cpp">
+      <Filter>Исходные файлы\class Student</Filter>
+    </ClCompile>
+    <ClCompile Include="alumnus .cpp">
+      <Filter>Исходные файлы\class Alumnus</Filter>
+    </ClCompile>
+    <ClCompile Include="stuff.cpp">
+      <Filter>Исходные файлы\class Stuff</Filter>
+    </ClCompile>
+    <ClCompile Include="faculty.cpp">
+      <Filter>Исходные файлы\class Faculty</Filter>
+    </ClCompile>
+    <ClCompile Include="teacher.cpp">
+      <Filter>Исходные файлы\class Teacher</Filter>
+    </ClCompile>
+    <ClCompile Include="administrator.cpp">
+      <Filter>Исходные файлы\class Administrator</Filter>
+    </ClCompile>
+    <ClCompile Include="administratorTeacher.cpp">
+      <Filter>Исходные файлы\class AdministratorTeacher</Filter>
+    </ClCompile>
+    <ClCompile Include="Tests.cpp">
+      <Filter>tests</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="human.h">
+      <Filter>Исходные файлы\class Human</Filter>
+    </ClInclude>
+    <ClInclude Include="employee.h">
+      <Filter>Исходные файлы\class Employee</Filter>
+    </ClInclude>
+    <ClInclude Include="student.h">
+      <Filter>Исходные файлы\class Student</Filter>
+    </ClInclude>
+    <ClInclude Include="alumnus .h">
+      <Filter>Исходные файлы\class Alumnus</Filter>
+    </ClInclude>
+    <ClInclude Include="stuff.h">
+      <Filter>Исходные файлы\class Stuff</Filter>
+    </ClInclude>
+    <ClInclude Include="faculty.h">
+      <Filter>Исходные файлы\class Faculty</Filter>
+    </ClInclude>
+    <ClInclude Include="administrator.h">
+      <Filter>Исходные файлы\class Administrator</Filter>
+    </ClInclude>
+    <ClInclude Include="teacher.h">
+      <Filter>Исходные файлы\class Teacher</Filter>
+    </ClInclude>
+    <ClInclude Include="administratorTeacher.h">
+      <Filter>Исходные файлы\class AdministratorTeacher</Filter>
+    </ClInclude>
+    <ClInclude Include="Tests.h">
+      <Filter>tests</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
